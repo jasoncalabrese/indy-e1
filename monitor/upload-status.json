@@ -7,31 +7,31 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-02-17T17:03:30.000Z", 
+      "timestamp": "2016-02-17T17:06:38.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
-    "reservoir": 76.8, 
-    "clock": "2016-02-17T09:03:01-08:00"
+    "reservoir": 76.775, 
+    "clock": "2016-02-17T09:06:10-08:00"
   }, 
   "openaps": {
     "suggested": {
-      "bg": 80, 
+      "bg": 81, 
       "temp": "absolute", 
-      "snoozeBG": 114, 
-      "timestamp": "2016-02-17T17:02:38.000Z", 
-      "reason": "Eventual BG -68<110, bolus snooze: eventual BG range -68-114", 
-      "eventualBG": -68, 
-      "mealAssist": "Off: Carbs: 24 Boluses: 2.25 Target: 115 Deviation: 2 BGI: -4.16", 
-      "tick": "+0"
+      "snoozeBG": 115, 
+      "timestamp": "2016-02-17T17:05:28.000Z", 
+      "reason": "Eventual BG -56<110, bolus snooze: eventual BG range -56-115", 
+      "eventualBG": -56, 
+      "mealAssist": "Off: Carbs: 24 Boluses: 2.25 Target: 115 Deviation: 11 BGI: -4.44", 
+      "tick": "+1"
     }, 
     "iob": {
       "netbasalinsulin": -0.6, 
-      "timestamp": "2016-02-17T17:02:37.000Z", 
+      "timestamp": "2016-02-17T17:05:27.000Z", 
       "basaliob": -0.183, 
-      "activity": 0.0104, 
-      "bolussnooze": 1.519, 
-      "iob": 1.871
+      "activity": 0.0111, 
+      "bolussnooze": 1.426, 
+      "iob": 1.847
     }, 
     "enacted": {
       "requested": {
@@ -53,35 +53,9 @@
     }
   }, 
   "mmtune": {
-    "scanDetails": [
-      [
-        "916.580", 
-        5, 
-        -95
-      ], 
-      [
-        "916.600", 
-        5, 
-        -92
-      ], 
-      [
-        "916.620", 
-        5, 
-        -91
-      ], 
-      [
-        "916.640", 
-        5, 
-        -92
-      ], 
-      [
-        "916.660", 
-        3, 
-        -95
-      ]
-    ], 
-    "setFreq": 916.62, 
-    "timestamp": "2016-02-17T17:03:22.000Z", 
-    "usedDefault": false
+    "scanDetails": [], 
+    "setFreq": 916.63, 
+    "timestamp": "2016-02-17T17:06:21.000Z", 
+    "usedDefault": true
   }
 }
