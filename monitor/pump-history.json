@@ -1,5 +1,24 @@
 [
   {
+    "_type": "Prime", 
+    "type": "manual", 
+    "_description": "Prime 2016-02-17T15:43:19 head[5], body[0] op[0x03]", 
+    "timestamp": "2016-02-17T15:43:19", 
+    "_body": "", 
+    "fixed": 0.0, 
+    "_head": "030000006c", 
+    "amount": 10.8, 
+    "_date": "13ab2f1110"
+  }, 
+  {
+    "_type": "Rewind", 
+    "_description": "Rewind 2016-02-17T15:42:10 head[2], body[0] op[0x21]", 
+    "timestamp": "2016-02-17T15:42:10", 
+    "_body": "", 
+    "_head": "2100", 
+    "_date": "0aaa0f1110"
+  }, 
+  {
     "_type": "TempBasalDuration", 
     "duration (min)": 30, 
     "_description": "TempBasalDuration 2016-02-17T15:34:31 head[2], body[0] op[0x16]", 
