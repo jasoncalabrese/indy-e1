@@ -1,5 +1,74 @@
 [
   {
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-02-17T15:57:46 head[8], body[0] op[0x01]", 
+    "timestamp": "2016-02-17T15:57:46-08:00", 
+    "_body": "", 
+    "appended": [
+      {
+        "_type": "UnabsorbedInsulinBolus", 
+        "_description": "UnabsorbedInsulinBolus unknown head[8], body[0] op[0x5c]", 
+        "_body": "", 
+        "_head": "5c08349fc05ac1d0", 
+        "data": [
+          {
+            "amount": 1.3, 
+            "age": 159
+          }, 
+          {
+            "amount": 2.25, 
+            "age": 449
+          }
+        ], 
+        "_date": ""
+      }
+    ], 
+    "programmed": 0.35, 
+    "duration": 0, 
+    "amount": 0.35, 
+    "unabsorbed": 0.15, 
+    "_head": "01000e000e000600", 
+    "type": "normal", 
+    "_date": "2eb92f1110"
+  }, 
+  {
+    "_type": "BolusWizard", 
+    "bg": 212, 
+    "_description": "BolusWizard 2016-02-17T15:57:46 head[2], body[15] op[0x5b]", 
+    "timestamp": "2016-02-17T15:57:46-08:00", 
+    "_body": "005000b4506e2e0000000006002878", 
+    "carb_input": 0, 
+    "bg_target_high": 120, 
+    "sensitivity": 80, 
+    "carb_ratio": 18.0, 
+    "food_estimate": 0.0, 
+    "unabsorbed_insulin_total": 0.15, 
+    "correction_estimate": 1.15, 
+    "bg_target_low": 110, 
+    "_head": "5bd4", 
+    "bolus_estimate": 1.0, 
+    "_date": "2eb90f1110"
+  }, 
+  {
+    "_type": "BGReceived", 
+    "_description": "BGReceived 2016-02-17T15:56:56 head[2], body[3] op[0x3f]", 
+    "timestamp": "2016-02-17T15:56:56-08:00", 
+    "_body": "c23647", 
+    "_head": "3f1a", 
+    "amount": 212, 
+    "link": "c23647", 
+    "_date": "38b88f7110"
+  }, 
+  {
+    "_type": "CalBGForPH", 
+    "_description": "CalBGForPH 2016-02-17T15:56:56 head[2], body[0] op[0x0a]", 
+    "timestamp": "2016-02-17T15:56:56-08:00", 
+    "_body": "", 
+    "_head": "0ad4", 
+    "amount": 212, 
+    "_date": "38b82f7110"
+  }, 
+  {
     "_type": "Prime", 
     "_description": "Prime 2016-02-17T15:49:25 head[5], body[0] op[0x03]", 
     "timestamp": "2016-02-17T15:49:25-08:00", 
