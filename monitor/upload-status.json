@@ -7,12 +7,12 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-02-28T16:29:32.000Z", 
+      "timestamp": "2016-02-28T16:44:15.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
-    "reservoir": 73.175, 
-    "clock": "2016-02-28T08:28:42-08:00"
+    "reservoir": 68.725, 
+    "clock": "2016-02-28T08:42:16-08:00"
   }, 
   "openaps": {
     "suggested": {
@@ -53,40 +53,9 @@
     }
   }, 
   "mmtune": {
-    "scanDetails": [
-      [
-        "916.540", 
-        3, 
-        -97
-      ], 
-      [
-        "916.560", 
-        5, 
-        -89
-      ], 
-      [
-        "916.580", 
-        4, 
-        -92
-      ], 
-      [
-        "916.600", 
-        4, 
-        -93
-      ], 
-      [
-        "916.640", 
-        4, 
-        -91
-      ], 
-      [
-        "916.660", 
-        5, 
-        -90
-      ]
-    ], 
-    "setFreq": 916.56, 
-    "timestamp": "2016-02-28T16:28:59.000Z", 
-    "usedDefault": false
+    "scanDetails": [], 
+    "setFreq": 916.63, 
+    "timestamp": "2016-02-28T16:57:33.000Z", 
+    "usedDefault": true
   }
 }
