@@ -1,5 +1,18 @@
 [
   {
+    "programmed": 2.6, 
+    "_type": "Bolus", 
+    "_description": "Bolus 2016-03-01T06:52:04 head[8], body[0] op[0x01]", 
+    "timestamp": "2016-03-01T06:52:04", 
+    "_body": "", 
+    "_head": "0100680068000000", 
+    "amount": 2.6, 
+    "unabsorbed": 0.0, 
+    "duration": 0, 
+    "type": "normal", 
+    "_date": "04f4260110"
+  }, 
+  {
     "_type": "BolusWizard", 
     "bg": 138, 
     "bg_target_high": 120, 
