@@ -7,7 +7,7 @@
     }, 
     "status": {
       "status": "normal", 
-      "timestamp": "2016-03-02T11:23:29.000Z", 
+      "timestamp": "2016-03-02T11:29:32.000Z", 
       "bolusing": false, 
       "suspended": false
     }, 
@@ -74,12 +74,12 @@
       [
         "916.620", 
         5, 
-        -85
+        -84
       ], 
       [
         "916.640", 
         5, 
-        -85
+        -84
       ], 
       [
         "916.660", 
@@ -97,8 +97,8 @@
         -93
       ]
     ], 
-    "setFreq": 916.66, 
-    "timestamp": "2016-03-02T11:23:22.000Z", 
+    "setFreq": 916.64, 
+    "timestamp": "2016-03-02T11:29:22.000Z", 
     "usedDefault": false
   }
 }
