@@ -1,12 +1,12 @@
 {
-  "bg": 175, 
+  "bg": 148, 
   "temp": "absolute", 
-  "snoozeBG": 167, 
+  "snoozeBG": 80, 
   "recieved": true, 
-  "rate": 1.35, 
-  "reason": "COB: 0, Dev: 34, BGI: -10.34, Target: 115; Eventual BG 167>=120, temp 0.5<1.34U/hr", 
-  "eventualBG": 167, 
-  "timestamp": "2016-04-12T11:37:47.460227", 
+  "rate": 0.0, 
+  "reason": "COB: 0, Dev: -26, BGI: -9.96, Target: 115; Eventual BG 80<110, setting -1.301U/hr", 
+  "eventualBG": 80, 
+  "timestamp": "2016-04-12T11:42:20.693819", 
   "duration": 30, 
-  "tick": "+5"
+  "tick": -27
 }
