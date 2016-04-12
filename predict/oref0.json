@@ -1,1 +1,1 @@
-{"temp":"absolute","bg":170,"tick":-21,"eventualBG":208,"snoozeBG":209,"reason":"COB: undefined, Dev: 92, BGI: -11.38, Target: 115; Eventual BG 208>110 but Avg. Delta -21.00 < Exp. Delta -14; setting current basal of 0.52 as temp","duration":30,"rate":0.5}
+{"temp":"absolute","bg":175,"tick":"+5","eventualBG":167,"snoozeBG":167,"reason":"COB: 0, Dev: 34, BGI: -10.34, Target: 115; Eventual BG 167>=120, temp 0.5<1.34U/hr","duration":30,"rate":1.35}
